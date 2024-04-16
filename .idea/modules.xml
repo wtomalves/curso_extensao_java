@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArraysTrocarNumero/ArraysTrocarNumero.iml" filepath="$PROJECT_DIR$/ArraysTrocarNumero/ArraysTrocarNumero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcao/Funcao.iml" filepath="$PROJECT_DIR$/Funcao/Funcao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaiorMenorArray/MaiorMenorArray.iml" filepath="$PROJECT_DIR$/MaiorMenorArray/MaiorMenorArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PositivosNegativosArray/PositivosNegativosArray.iml" filepath="$PROJECT_DIR$/PositivosNegativosArray/PositivosNegativosArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primos/Primos.iml" filepath="$PROJECT_DIR$/Primos/Primos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoDesvio/ProjetoDesvio.iml" filepath="$PROJECT_DIR$/ProjetoDesvio/ProjetoDesvio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoPalpite/ProjetoPalpite.iml" filepath="$PROJECT_DIR$/ProjetoPalpite/ProjetoPalpite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoQuadrado/ProjetoQuadrado.iml" filepath="$PROJECT_DIR$/ProjetoQuadrado/ProjetoQuadrado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoRepeticao/ProjetoRepeticao.iml" filepath="$PROJECT_DIR$/ProjetoRepeticao/ProjetoRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoSwitch/ProjetoSwitch.iml" filepath="$PROJECT_DIR$/ProjetoSwitch/ProjetoSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroprojeto.iml" filepath="$PROJECT_DIR$/primeiroprojeto.iml" />
+    </modules>
+  </component>
+</project>
